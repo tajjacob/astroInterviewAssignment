@@ -1,6 +1,6 @@
 # astro_interview
 
-An Interview Assignmnet
+Astro Interview Assignmnet
 
 ## Getting Started
 
